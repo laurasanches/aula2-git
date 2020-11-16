@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T14:29:55.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="13.9.2" etag="qoa5lkG0n1hWspZjIWMJ" type="github"><diagram id="aHTfqjEFVrW8QiR7lx1P">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-16T17:42:08.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="vwLZHM5fJFbcQmhP60ze" version="13.9.2" type="github">
+  <diagram id="aHTfqjEFVrW8QiR7lx1P" name="Page-1">
+    <mxGraphModel dx="2075" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QuliIISMQwdlb4nI3p-L-1" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.25879396984924624;" vertex="1" parent="1">
+          <mxGeometry x="-0.5" width="796" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-4" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;ordenação:&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="180" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-8" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="710" y="180" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="140" width="76" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="240" width="76" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="340" width="76" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="340" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-19" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Valor Mínimo:&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="160" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-21" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Valor Máximo:&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-23" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Buscar Produto&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="260" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-26" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-27" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;logo&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-30" value="Cadastrar-se" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-31" value="Página Inicial" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="70" width="84" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="410" width="380" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-33" value="Sobre nós" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="212" y="440" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-35" value="Segunda à sexta: 08h às 22h" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="460" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-36" value="Sábado: 08h às 20h&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="480" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-37" value="Domingo e Feriado: 10h às 14h" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="500" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-40" value="HORÁRIO DE FUNCIONAMENTO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="279" y="440" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QuliIISMQwdlb4nI3p-L-8" target="QuliIISMQwdlb4nI3p-L-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QuliIISMQwdlb4nI3p-L-46" value="Quantidade de viagens espaciais disponíveis:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="90" width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
